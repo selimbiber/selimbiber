@@ -106,4 +106,5 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
   <a href="https://github.com/selimbiber" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimbiber&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
-![](https://komarev.com/ghpvc/?username=selimbiber&style=for-the-badge)
+  
+  ![](https://komarev.com/ghpvc/?username=selimbiber&style=for-the-badge)
