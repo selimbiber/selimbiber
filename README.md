@@ -1,4 +1,4 @@
-Hi 👋 My name is Selim Biber
+Hi there 👋
 ============================
 
 Frontend Web Developer
