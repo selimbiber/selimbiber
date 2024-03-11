@@ -1,9 +1,5 @@
 Hi there 👋
 ============================
-
-Frontend Web Developer
-----------------------
-
 Enthusiastic Frontend Web Developer with 2 year of practical experience in Progressive Web App Development, JavaScript/ES6/ES2017, React, TypeScript, HTML/CSS, TailwindCSS, PostCSS/SCSS. a11y minded. Scrum & Agile inspired.
 
 *   🌍  I'm based in Rize/Turkiye
