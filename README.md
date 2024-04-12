@@ -93,14 +93,20 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
       
   ### <b>Stats</b>
   
-  <a href="http://www.github.com/selimbiber">
-    <img src="https://github-readme-stats.vercel.app/api?username=selimbiber&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="selimbiber's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/selimbiber">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=selimbiber&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/selimbiber" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimbiber&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-  
-  ![](https://komarev.com/ghpvc/?username=selimbiber&style=for-the-badge)
+  <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selimbiber&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+<div>  
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=selimbiber&show_icons=true&count_private=false&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Selim Biber Github stats" /> 
+  <img width="44%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimbiber&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+  </div>
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{selimbiber}/count.svg" /></p> 
+<br>
+</div>
