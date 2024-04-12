@@ -94,6 +94,8 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
       
   ### <b>Stats</b>
 
+  <div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selimbiber&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <div>  
@@ -103,7 +105,7 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{selimbiber}/count.svg" /></p> 
-<br>
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{selimbiber}/count.svg" /></p> 
+  <br>
 </div>
