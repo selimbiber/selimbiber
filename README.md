@@ -3,7 +3,7 @@ Hi there 👋
 Enthusiastic Frontend Web Developer with 2 year of practical experience in Progressive Web App Development, JavaScript/ES6/ES2017, Node.js, Express.js, React, TypeScript, HTML/CSS, TailwindCSS, PostCSS/SCSS. a11y minded. Scrum & Agile inspired.
 
 *   🌍  I'm based in Rize/Turkiye
-*   🖥️  See my portfolio at [My Personal Website](http://selimbiber.dev)
+*   🖥️  You can see my portfolio at [selimbiber.github.io](https://selimbiber.github.io/)
 *   ✉️  You can contact me at [selimbiber.dev@outlook.com](mailto:selimbiber.dev@outlook.com)
 *   🚀  I'm currently working on Mini React and Node Projects
 *   🧠  I'm learning Node.js
