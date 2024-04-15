@@ -5,7 +5,7 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
 *   🌍  I'm based in Rize/Turkiye
 *   🖥️  You can see my portfolio at [selimbiber.github.io](https://selimbiber.github.io/)
 *   ✉️  You can contact me at [selimbiber.dev@outlook.com](mailto:selimbiber.dev@outlook.com)
-*   🚀  I'm currently working on Mini React and Node Projects
+*   🚀  I'm currently working on mini React and Node Projects
 *   🧠  I'm learning Node.js
 *   🤝  I'm open to collaborating on interesting web development projects
 
