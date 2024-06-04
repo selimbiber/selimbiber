@@ -106,7 +106,7 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
 </div>
 
 <div align="center">
-  https://github-readme-codewars-stats.herokuapp.com/api/?username=[selimbiber]&badge&name_only
+  https://github-readme-codewars-stats.herokuapp.com/api/?username=selimbiber&badge&name_only
 </div>
 
 <div align="center">
