@@ -106,6 +106,10 @@ Enthusiastic Frontend Web Developer with 2 year of practical experience in Progr
 </div>
 
 <div align="center">
+  ![image](https://www.codewars.com/users/selimbiber/badges/large)
+</div>
+
+<div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{selimbiber}/count.svg" /></p> 
   <br>
