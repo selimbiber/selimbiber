@@ -103,7 +103,7 @@ I'm a Front-End Developer with two years of practical experience in building mod
 
 <br />
       
-[![GitHub Streak](https://streak-stats.demolab.com?user=selimbiber&theme=dark&exclude_days=Fri)](https://git.io/streak-stats)
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&exclude_days=Fri" alt="GitHub Streak" /></a>
 
 <div align="center">
   <div>  
