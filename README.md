@@ -103,13 +103,13 @@ I'm a Front-End Developer with two years of practical experience in building mod
 
 <br />
       
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&exclude_days=Fri" alt="GitHub Streak" /></a>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&exclude_days=Fri" alt="GitHub Streak" /></a>
+</div>
 
 <div align="center">
-  <div>  
     <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=selimbiber&show_icons=true&count_private=false&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Selim Biber Github stats" /> 
     <img width="44%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimbiber&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
-  </div>
 </div>
 
 <div align="center">
