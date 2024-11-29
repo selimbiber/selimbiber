@@ -1,13 +1,20 @@
 Hi there 👋
 ============================
-Enthusiastic Frontend Web Developer with 2 year of practical experience in Progressive Web App Development, JavaScript/ES6/ES2017, Node.js, Express.js, React, TypeScript, HTML/CSS, TailwindCSS, PostCSS/SCSS. a11y minded. Scrum & Agile inspired.
+I'm a Front-End Developer with two years of practical experience in building modern and high-performance websites. I specialize in React, TypeScript, and CSS technologies like SCSS, Tailwind, and Bootstrap. I pay meticulous attention to accessibility, performance, usability, and aesthetics to ensure that every project is not only functional but also inclusive and enjoyable for all users.
 
-*   🌍  I'm based in Rize/Turkiye
-*   🖥️  You can see my portfolio at [selimbiber.github.io](https://selimbiber.github.io/)
-*   ✉️  You can contact me at [selimbiber.dev@outlook.com](mailto:selimbiber.dev@outlook.com)
-*   🚀  I'm currently working on mini React and Node Projects
-*   🧠  I'm learning Node.js
-*   🤝  I'm open to collaborating on interesting web development projects
+Key Skills:
+
+- Frontend: React, TypeScript, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
+
+- Backend: Python, Django, Flask
+
+- Design & UX: Figma for designing clean, modern, and accessible user interfaces
+
+- Performance: Code splitting, lazy loading, image optimization, and minimizing render-blocking resources for faster page load times
+
+- Accessibility: Implementing WCAG standards, semantic HTML, ARIA roles, keyboard navigation, and screen reader support to ensure that websites are accessible to all users
+
+- Usability: Creating intuitive, easy-to-navigate layouts, ensuring seamless user experiences on both desktop and mobile devices
 
   ### Skills 
   
