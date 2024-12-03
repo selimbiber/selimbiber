@@ -4,9 +4,11 @@ I'm a Front-End Developer with two years of practical experience in building mod
 
 ## Key Skills:
 
-- Frontend: React, TypeScript, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
+- Languages: JavaScript, TypeScript, Python
 
-- Backend: Python, Django, Flask
+- Frontend: React.js, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
+
+- Backend: Node.js, Express.js, Django, Flask
 
 - Design & UX: Figma for designing clean, modern, and accessible user interfaces
 
@@ -104,8 +106,12 @@ I'm a Front-End Developer with two years of practical experience in building mod
 <br />
       
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&exclude_days=Fri" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri" alt="GitHub Streak" />
+    </a>
 </div>
+
+<br />
 
 <div align="center">
     <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=selimbiber&show_icons=true&count_private=false&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Selim Biber Github stats" /> 
