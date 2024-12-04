@@ -106,9 +106,7 @@ I'm a Front-End Developer with two years of practical experience in building mod
 <br />
       
 <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri" alt="GitHub Streak" />
-    </a>
+    <img src="https://streak-stats.demolab.com?user=selimbiber&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri" alt="GitHub Streak" />
 </div>
 
 <br />
