@@ -10,7 +10,9 @@ I'm a Full-stack Developer with over two years of practical experience in buildi
 
 - Backend: Node.js, Express.js, Nest.js, Flask
 
-- Design & UX: Figma for designing clean, modern, and accessible user interfaces
+- Database: MongoDB, PostgreSQL
+
+- Design & UX: Figma and Framer for designing clean, modern, and accessible user interfaces
 
 - Performance: Code splitting, lazy loading, image optimization, and minimizing render-blocking resources for faster page load times
 
