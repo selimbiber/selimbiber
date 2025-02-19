@@ -1,14 +1,14 @@
 Hi there 👋
 ============================
-I'm a Front-End Developer with two years of practical experience in building modern and high-performance websites. I specialize in React, TypeScript, and CSS technologies like SCSS, Tailwind, and Bootstrap. I pay meticulous attention to accessibility, performance, usability, and aesthetics to ensure that every project is not only functional but also inclusive and enjoyable for all users.
+I'm a Full-stack Developer with over two years of practical experience in building modern and high-performance web applications. While I have a strong foundation in both front-end and back-end technologies, I excel particularly in front-end development, specializing in React, TypeScript, and CSS. I pay meticulous attention to accessibility, performance, usability, and aesthetics to ensure that every project is not only functional but also inclusive and enjoyable for all users.
 
 ## Key Skills:
 
 - Languages: JavaScript, TypeScript, Python
 
-- Frontend: React.js, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
+- Frontend: React, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
 
-- Backend: Node.js, Express.js, Django, Flask
+- Backend: Node.js, Express.js, Nest.js, Flask
 
 - Design & UX: Figma for designing clean, modern, and accessible user interfaces
 
